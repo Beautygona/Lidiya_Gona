@@ -1,9 +1,18 @@
-
+p align="left">  About Me 😊
 <h1 align="center">Hi 👋, I'm LIDIYA</h1>
 <h3 align="center">A passionate MERN stack developer, JAVA developer from India</h3>
 
 - 🌱 I’m currently learning **MERN stack,JAVA Programming**
-
+<p align="left"> 
+        ✨  Passionate about project planning and skilled in various technologies, I excel in organizing and 
+        executing  projects effectively. Proficient in java and MERN stack development ,I bring a strategic 
+        approach to project management 
+        ✨ proficient  in communication and team collaboration ,with a flair for creativity and innovative 
+        thinking  Strong time management  skills ensure timely project delivered and I am a quick learner  
+       and excel in team environment 
+        ✨ I possess a strong ability to efficiently  complete tasks  within deadlines,  consistently delivering   
+        top-quality results. Looking forward to contributing my skills and expertise to drive successful 
+        outcomes </p>
 - 📫 How to reach me **gonalidiya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
